@@ -1,1 +1,1 @@
-# geco-main
+# geco-games
