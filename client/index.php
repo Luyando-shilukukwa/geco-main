@@ -33,6 +33,9 @@ include("../config/auth.php");
                         </div>
                         <div class="text-items">
                             <li>
+                                <a href="../community/gamepass/gamepass.html">GamePass</a>
+                            </li>
+                            <li>
                                 <a href="../community/clans/clans.html">clans</a>
                             </li>
                             <li>

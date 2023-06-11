@@ -31,33 +31,33 @@
             <ul>
                 <div class="img-container">
                     <li>
-                        <a href="../index.html"><img src="../assets/icons/white-icon-geco.png" alt=""></a>
+                        <a href="./index.php"><img src="./assets/icons/white-icon-geco.png" alt=""></a>
                     </li>
                 </div>
                 <div class="text-items"  id="text-content">
                     <li>
-                        <a href="../pages/games.html">Games</a>
+                        <a href="./pages/games.php">Games</a>
                     </li>
                     <li>
-                        <a href="../pages/community.html">Community</a>
+                        <a href="./pages/community.php">Community</a>
                     </li>
                     <li>
-                        <a href="../pages/support.html">Support</a>
+                        <a href="./pages/support.php">Support</a>
                     </li>
                     <li>
-                        <a href="../pages/developers.html">Developers</a>
+                        <a href="./pages/developers.php">Developers</a>
                     </li>
                     <li>
-                        <a href="../pages/contactus.html">Contact us</a>
+                        <a href="./pages/contactus.php">Contact us</a>
                     </li>
                     <li>
-                        <a href="../pages/team.html">Our Team</a>
+                        <a href="./pages/team.php">Our Team</a>
                     </li>
                     <li>
-                        <a href="../pages/login.html">Log in</a>
+                        <a href="./pages/login.php">Log in</a>
                     </li>
                     <li>
-                        <a href="../pages/signin.html">Sign in</a>
+                        <a href="./pages/signin.php">Sign in</a>
                     </li>
                     <li>
                         <span class="close" onclick="CloseNav()"><i class="fa-solid fa-xmark"></i></span>
